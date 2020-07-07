@@ -24,4 +24,8 @@ require (
 	github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a
 	github.com/yookoala/gofast v0.4.0
 	golang.org/x/net v0.0.0-20200222125558-5a598a2470a0
+	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e // indirect
+	github.com/cpuguy83/go-md2man v1.0.10 // indirect
+	github.com/spiral/goridge v2.1.4+incompatible // indirect
+	github.com/spiral/php-grpc v1.2.0
 )

@@ -1,6 +1,7 @@
-FROM golang:1.14.3 as builder
+# Image page: <https://hub.docker.com/_/golang>
+FROM golang:1.14.4-alpine3.12
 
-COPY . /src
+WORKDIR /workspace
 
 WORKDIR /src
 
